@@ -1,0 +1,2343 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:02:35] 
+[17:02:35] Server Plugins
+[17:02:35] --------------
+[17:02:35]  Loaded 0 plugins.
+
+[17:02:35] 
+[17:02:35] Filterscripts
+[17:02:35] ---------------
+[17:02:35]   Loading filterscript 'gl_actions.amx'...
+[17:02:35]   Loading filterscript 'gl_realtime.amx'...
+[17:02:35]   Loading filterscript 'gl_property.amx'...
+[17:02:35] 
+-----------------------------------
+[17:02:35] Grand Larceny Property Filterscript		
+[17:02:35] -----------------------------------
+
+[17:02:35]   Loading filterscript 'gl_mapicon.amx'...
+[17:02:35]   Loading filterscript 'ls_elevator.amx'...
+[17:02:35]   Loading filterscript 'attachments.amx'...
+[17:02:35]   Loading filterscript 'skinchanger.amx'...
+[17:02:35] 
+--Admin Player Skin Changer Loaded
+
+[17:02:35]   Loading filterscript 'vspawner.amx'...
+[17:02:35] 
+--Admin Vehicle Spawner Loaded
+
+[17:02:35]   Loading filterscript 'ls_mall.amx'...
+[17:02:35]   Loading filterscript 'ls_beachside.amx'...
+[17:02:35] 
+
+[17:02:35]   |---------------------------------------------------
+[17:02:35]   |--- LS BeachSide Filterscript
+[17:02:35]   |--  Script v1.03
+[17:02:35]   |--  19th April 2015
+[17:02:35]   |---------------------------------------------------
+[17:02:35]   |--  LS BeachSide Building Elevator created
+[17:02:35]   |---------------------------------------------------
+[17:02:35]   Loaded 10 filterscripts.
+
+[17:02:35] Loaded 3 vehicles from: vehicles/trains.txt
+[17:02:35] Loaded 3 vehicles from: vehicles/pilots.txt
+[17:02:35] Loaded 15 vehicles from: vehicles/lv_law.txt
+[17:02:35] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[17:02:35] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[17:02:35] Loaded 38 vehicles from: vehicles/sf_law.txt
+[17:02:35] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[17:02:35] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[17:02:35] Loaded 24 vehicles from: vehicles/ls_law.txt
+[17:02:35] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[17:02:35] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[17:02:35] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[17:02:35] Loaded 71 vehicles from: vehicles/whetstone.txt
+[17:02:35] Loaded 168 vehicles from: vehicles/bone.txt
+[17:02:35] Loaded 61 vehicles from: vehicles/flint.txt
+[17:02:35] Loaded 96 vehicles from: vehicles/tierra.txt
+[17:02:35] Loaded 96 vehicles from: vehicles/red_county.txt
+[17:02:35] Total vehicles from files: 1781
+[17:02:35] Reading File: blank
+[17:02:35] Reading File: properties/houses.txt
+[17:02:35] Reading File: properties/businesses.txt
+[17:02:35] Reading File: properties/banks.txt
+[17:02:35] Reading File: properties/police.txt
+[17:02:35] 
+---------------------------------------
+[17:02:35] Running Grand Larceny - by the SA-MP team
+
+[17:02:35] ---------------------------------------
+
+[17:02:35] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:41:16] 
+[01:41:16] Server Plugins
+[01:41:16] --------------
+[01:41:16]  Loaded 0 plugins.
+
+[01:41:16] 
+[01:41:16] Filterscripts
+[01:41:16] ---------------
+[01:41:16]   Loading filterscript 'gl_actions.amx'...
+[01:41:16]   Loading filterscript 'gl_realtime.amx'...
+[01:41:16]   Loading filterscript 'gl_property.amx'...
+[01:41:16] 
+-----------------------------------
+[01:41:16] Grand Larceny Property Filterscript		
+[01:41:16] -----------------------------------
+
+[01:41:16]   Loading filterscript 'gl_mapicon.amx'...
+[01:41:16]   Loading filterscript 'ls_elevator.amx'...
+[01:41:16]   Loading filterscript 'attachments.amx'...
+[01:41:16]   Loading filterscript 'skinchanger.amx'...
+[01:41:16] 
+--Admin Player Skin Changer Loaded
+
+[01:41:16]   Loading filterscript 'vspawner.amx'...
+[01:41:16] 
+--Admin Vehicle Spawner Loaded
+
+[01:41:16]   Loading filterscript 'ls_mall.amx'...
+[01:41:16]   Loading filterscript 'ls_beachside.amx'...
+[01:41:16] 
+
+[01:41:16]   |---------------------------------------------------
+[01:41:16]   |--- LS BeachSide Filterscript
+[01:41:16]   |--  Script v1.03
+[01:41:16]   |--  19th April 2015
+[01:41:16]   |---------------------------------------------------
+[01:41:16]   |--  LS BeachSide Building Elevator created
+[01:41:16]   |---------------------------------------------------
+[01:41:16]   Loaded 10 filterscripts.
+
+[01:41:16] Reading File: blank
+[01:41:16] Reading File: properties/houses.txt
+[01:41:16] Reading File: properties/businesses.txt
+[01:41:16] Reading File: properties/banks.txt
+[01:41:16] Reading File: properties/police.txt
+[01:41:16] 
+----------------------------------
+[01:41:16]   This is a blank GameModeScript
+[01:41:16] ----------------------------------
+
+[01:41:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:41:50] 
+[01:41:50] Server Plugins
+[01:41:50] --------------
+[01:41:50]  Loaded 0 plugins.
+
+[01:41:50] 
+[01:41:50] Filterscripts
+[01:41:50] ---------------
+[01:41:50]   Loading filterscript 'gl_actions.amx'...
+[01:41:50]   Loading filterscript 'gl_realtime.amx'...
+[01:41:50]   Loading filterscript 'gl_property.amx'...
+[01:41:50] 
+-----------------------------------
+[01:41:50] Grand Larceny Property Filterscript		
+[01:41:50] -----------------------------------
+
+[01:41:50]   Loading filterscript 'gl_mapicon.amx'...
+[01:41:50]   Loading filterscript 'ls_elevator.amx'...
+[01:41:50]   Loading filterscript 'attachments.amx'...
+[01:41:50]   Loading filterscript 'skinchanger.amx'...
+[01:41:50] 
+--Admin Player Skin Changer Loaded
+
+[01:41:50]   Loading filterscript 'vspawner.amx'...
+[01:41:50] 
+--Admin Vehicle Spawner Loaded
+
+[01:41:50]   Loading filterscript 'ls_mall.amx'...
+[01:41:50]   Loading filterscript 'ls_beachside.amx'...
+[01:41:50] 
+
+[01:41:50]   |---------------------------------------------------
+[01:41:50]   |--- LS BeachSide Filterscript
+[01:41:50]   |--  Script v1.03
+[01:41:50]   |--  19th April 2015
+[01:41:50]   |---------------------------------------------------
+[01:41:50]   |--  LS BeachSide Building Elevator created
+[01:41:50]   |---------------------------------------------------
+[01:41:50]   Loaded 10 filterscripts.
+
+[01:41:50] Reading File: blank
+[01:41:50] Reading File: properties/houses.txt
+[01:41:50] Reading File: properties/businesses.txt
+[01:41:50] Reading File: properties/banks.txt
+[01:41:50] Reading File: properties/police.txt
+[01:41:50] 
+----------------------------------
+[01:41:50]   This is a blank GameModeScript
+[01:41:50] ----------------------------------
+
+[01:41:50] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:42:11] 
+[01:42:11] Server Plugins
+[01:42:11] --------------
+[01:42:11]  Loaded 0 plugins.
+
+[01:42:11] 
+[01:42:11] Filterscripts
+[01:42:11] ---------------
+[01:42:11]   Loading filterscript 'gl_actions.amx'...
+[01:42:11]   Loading filterscript 'gl_realtime.amx'...
+[01:42:11]   Loading filterscript 'gl_property.amx'...
+[01:42:11] 
+-----------------------------------
+[01:42:11] Grand Larceny Property Filterscript		
+[01:42:11] -----------------------------------
+
+[01:42:11]   Loading filterscript 'gl_mapicon.amx'...
+[01:42:11]   Loading filterscript 'ls_elevator.amx'...
+[01:42:11]   Loading filterscript 'attachments.amx'...
+[01:42:11]   Loading filterscript 'skinchanger.amx'...
+[01:42:11] 
+--Admin Player Skin Changer Loaded
+
+[01:42:11]   Loading filterscript 'vspawner.amx'...
+[01:42:11] 
+--Admin Vehicle Spawner Loaded
+
+[01:42:11]   Loading filterscript 'ls_mall.amx'...
+[01:42:11]   Loading filterscript 'ls_beachside.amx'...
+[01:42:11] 
+
+[01:42:11]   |---------------------------------------------------
+[01:42:11]   |--- LS BeachSide Filterscript
+[01:42:11]   |--  Script v1.03
+[01:42:11]   |--  19th April 2015
+[01:42:11]   |---------------------------------------------------
+[01:42:11]   |--  LS BeachSide Building Elevator created
+[01:42:11]   |---------------------------------------------------
+[01:42:11]   Loaded 10 filterscripts.
+
+[01:42:11] Reading File: blank
+[01:42:11] Reading File: properties/houses.txt
+[01:42:11] Reading File: properties/businesses.txt
+[01:42:11] Reading File: properties/banks.txt
+[01:42:11] Reading File: properties/police.txt
+[01:42:11] 
+----------------------------------
+[01:42:11]   This is a blank GameModeScript
+[01:42:11] ----------------------------------
+
+[01:42:11] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:42:16] 
+[01:42:16] Server Plugins
+[01:42:16] --------------
+[01:42:16]  Loaded 0 plugins.
+
+[01:42:16] 
+[01:42:16] Filterscripts
+[01:42:16] ---------------
+[01:42:16]   Loading filterscript 'gl_actions.amx'...
+[01:42:16]   Loading filterscript 'gl_realtime.amx'...
+[01:42:16]   Loading filterscript 'gl_property.amx'...
+[01:42:16] 
+-----------------------------------
+[01:42:16] Grand Larceny Property Filterscript		
+[01:42:16] -----------------------------------
+
+[01:42:16]   Loading filterscript 'gl_mapicon.amx'...
+[01:42:16]   Loading filterscript 'ls_elevator.amx'...
+[01:42:16]   Loading filterscript 'attachments.amx'...
+[01:42:16]   Loading filterscript 'skinchanger.amx'...
+[01:42:16] 
+--Admin Player Skin Changer Loaded
+
+[01:42:16]   Loading filterscript 'vspawner.amx'...
+[01:42:16] 
+--Admin Vehicle Spawner Loaded
+
+[01:42:16]   Loading filterscript 'ls_mall.amx'...
+[01:42:16]   Loading filterscript 'ls_beachside.amx'...
+[01:42:16] 
+
+[01:42:16]   |---------------------------------------------------
+[01:42:16]   |--- LS BeachSide Filterscript
+[01:42:16]   |--  Script v1.03
+[01:42:16]   |--  19th April 2015
+[01:42:16]   |---------------------------------------------------
+[01:42:16]   |--  LS BeachSide Building Elevator created
+[01:42:16]   |---------------------------------------------------
+[01:42:16]   Loaded 10 filterscripts.
+
+[01:42:16] Reading File: blank
+[01:42:16] Reading File: properties/houses.txt
+[01:42:16] Reading File: properties/businesses.txt
+[01:42:16] Reading File: properties/banks.txt
+[01:42:16] Reading File: properties/police.txt
+[01:42:16] 
+----------------------------------
+[01:42:16]   This is a blank GameModeScript
+[01:42:16] ----------------------------------
+
+[01:42:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:42:30] 
+[01:42:30] Server Plugins
+[01:42:30] --------------
+[01:42:30]  Loaded 0 plugins.
+
+[01:42:30] 
+[01:42:30] Filterscripts
+[01:42:30] ---------------
+[01:42:30]   Loading filterscript 'gl_actions.amx'...
+[01:42:30]   Loading filterscript 'gl_realtime.amx'...
+[01:42:30]   Loading filterscript 'gl_property.amx'...
+[01:42:30] 
+-----------------------------------
+[01:42:30] Grand Larceny Property Filterscript		
+[01:42:30] -----------------------------------
+
+[01:42:30]   Loading filterscript 'gl_mapicon.amx'...
+[01:42:30]   Loading filterscript 'ls_elevator.amx'...
+[01:42:30]   Loading filterscript 'attachments.amx'...
+[01:42:30]   Loading filterscript 'skinchanger.amx'...
+[01:42:30] 
+--Admin Player Skin Changer Loaded
+
+[01:42:30]   Loading filterscript 'vspawner.amx'...
+[01:42:30] 
+--Admin Vehicle Spawner Loaded
+
+[01:42:30]   Loading filterscript 'ls_mall.amx'...
+[01:42:30]   Loading filterscript 'ls_beachside.amx'...
+[01:42:30] 
+
+[01:42:30]   |---------------------------------------------------
+[01:42:30]   |--- LS BeachSide Filterscript
+[01:42:30]   |--  Script v1.03
+[01:42:30]   |--  19th April 2015
+[01:42:30]   |---------------------------------------------------
+[01:42:30]   |--  LS BeachSide Building Elevator created
+[01:42:30]   |---------------------------------------------------
+[01:42:30]   Loaded 10 filterscripts.
+
+[01:42:30] Reading File: blank
+[01:42:30] Reading File: properties/houses.txt
+[01:42:30] Reading File: properties/businesses.txt
+[01:42:30] Reading File: properties/banks.txt
+[01:42:30] Reading File: properties/police.txt
+[01:42:30] 
+----------------------------------
+[01:42:30]   This is a blank GameModeScript
+[01:42:30] ----------------------------------
+
+[01:42:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:42:41] 
+[01:42:41] Server Plugins
+[01:42:41] --------------
+[01:42:41]  Loaded 0 plugins.
+
+[01:42:42] 
+[01:42:42] Filterscripts
+[01:42:42] ---------------
+[01:42:42]   Loading filterscript 'gl_actions.amx'...
+[01:42:42]   Loading filterscript 'gl_realtime.amx'...
+[01:42:42]   Loading filterscript 'gl_property.amx'...
+[01:42:42] 
+-----------------------------------
+[01:42:42] Grand Larceny Property Filterscript		
+[01:42:42] -----------------------------------
+
+[01:42:42]   Loading filterscript 'gl_mapicon.amx'...
+[01:42:42]   Loading filterscript 'ls_elevator.amx'...
+[01:42:42]   Loading filterscript 'attachments.amx'...
+[01:42:42]   Loading filterscript 'skinchanger.amx'...
+[01:42:42] 
+--Admin Player Skin Changer Loaded
+
+[01:42:42]   Loading filterscript 'vspawner.amx'...
+[01:42:42] 
+--Admin Vehicle Spawner Loaded
+
+[01:42:42]   Loading filterscript 'ls_mall.amx'...
+[01:42:42]   Loading filterscript 'ls_beachside.amx'...
+[01:42:42] 
+
+[01:42:42]   |---------------------------------------------------
+[01:42:42]   |--- LS BeachSide Filterscript
+[01:42:42]   |--  Script v1.03
+[01:42:42]   |--  19th April 2015
+[01:42:42]   |---------------------------------------------------
+[01:42:42]   |--  LS BeachSide Building Elevator created
+[01:42:42]   |---------------------------------------------------
+[01:42:42]   Loaded 10 filterscripts.
+
+[01:42:42] Reading File: blank
+[01:42:42] Reading File: properties/houses.txt
+[01:42:42] Reading File: properties/businesses.txt
+[01:42:42] Reading File: properties/banks.txt
+[01:42:42] Reading File: properties/police.txt
+[01:42:42] 
+----------------------------------
+[01:42:42]   This is a blank GameModeScript
+[01:42:42] ----------------------------------
+
+[01:42:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:42:51] 
+[01:42:51] Server Plugins
+[01:42:51] --------------
+[01:42:51]  Loaded 0 plugins.
+
+[01:42:51] 
+[01:42:51] Filterscripts
+[01:42:51] ---------------
+[01:42:51]   Loading filterscript 'gl_actions.amx'...
+[01:42:51]   Loading filterscript 'gl_realtime.amx'...
+[01:42:51]   Loading filterscript 'gl_property.amx'...
+[01:42:51] 
+-----------------------------------
+[01:42:51] Grand Larceny Property Filterscript		
+[01:42:51] -----------------------------------
+
+[01:42:51]   Loading filterscript 'gl_mapicon.amx'...
+[01:42:51]   Loading filterscript 'ls_elevator.amx'...
+[01:42:51]   Loading filterscript 'attachments.amx'...
+[01:42:51]   Loading filterscript 'skinchanger.amx'...
+[01:42:51] 
+--Admin Player Skin Changer Loaded
+
+[01:42:51]   Loading filterscript 'vspawner.amx'...
+[01:42:51] 
+--Admin Vehicle Spawner Loaded
+
+[01:42:51]   Loading filterscript 'ls_mall.amx'...
+[01:42:51]   Loading filterscript 'ls_beachside.amx'...
+[01:42:51] 
+
+[01:42:51]   |---------------------------------------------------
+[01:42:51]   |--- LS BeachSide Filterscript
+[01:42:51]   |--  Script v1.03
+[01:42:51]   |--  19th April 2015
+[01:42:51]   |---------------------------------------------------
+[01:42:51]   |--  LS BeachSide Building Elevator created
+[01:42:51]   |---------------------------------------------------
+[01:42:51]   Loaded 10 filterscripts.
+
+[01:42:51] Reading File: blank
+[01:42:51] Reading File: properties/houses.txt
+[01:42:51] Reading File: properties/businesses.txt
+[01:42:51] Reading File: properties/banks.txt
+[01:42:51] Reading File: properties/police.txt
+[01:42:51] 
+----------------------------------
+[01:42:51]   This is a blank GameModeScript
+[01:42:51] ----------------------------------
+
+[01:42:51] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:42:57] 
+[01:42:57] Server Plugins
+[01:42:57] --------------
+[01:42:57]  Loaded 0 plugins.
+
+[01:42:57] 
+[01:42:57] Filterscripts
+[01:42:57] ---------------
+[01:42:57]   Loading filterscript 'gl_actions.amx'...
+[01:42:57]   Loading filterscript 'gl_realtime.amx'...
+[01:42:57]   Loading filterscript 'gl_property.amx'...
+[01:42:57] 
+-----------------------------------
+[01:42:57] Grand Larceny Property Filterscript		
+[01:42:57] -----------------------------------
+
+[01:42:57]   Loading filterscript 'gl_mapicon.amx'...
+[01:42:57]   Loading filterscript 'ls_elevator.amx'...
+[01:42:57]   Loading filterscript 'attachments.amx'...
+[01:42:57]   Loading filterscript 'skinchanger.amx'...
+[01:42:57] 
+--Admin Player Skin Changer Loaded
+
+[01:42:57]   Loading filterscript 'vspawner.amx'...
+[01:42:57] 
+--Admin Vehicle Spawner Loaded
+
+[01:42:57]   Loading filterscript 'ls_mall.amx'...
+[01:42:57]   Loading filterscript 'ls_beachside.amx'...
+[01:42:57] 
+
+[01:42:57]   |---------------------------------------------------
+[01:42:57]   |--- LS BeachSide Filterscript
+[01:42:57]   |--  Script v1.03
+[01:42:57]   |--  19th April 2015
+[01:42:57]   |---------------------------------------------------
+[01:42:57]   |--  LS BeachSide Building Elevator created
+[01:42:57]   |---------------------------------------------------
+[01:42:57]   Loaded 10 filterscripts.
+
+[01:42:57] Reading File: blank
+[01:42:57] Reading File: properties/houses.txt
+[01:42:57] Reading File: properties/businesses.txt
+[01:42:57] Reading File: properties/banks.txt
+[01:42:57] Reading File: properties/police.txt
+[01:42:57] 
+----------------------------------
+[01:42:57]   This is a blank GameModeScript
+[01:42:57] ----------------------------------
+
+[01:42:57] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:43:42] 
+[01:43:42] Server Plugins
+[01:43:42] --------------
+[01:43:42]  Loaded 0 plugins.
+
+[01:43:42] I couldn't load any gamemode scripts. Please verify your server.cfg
+[01:43:42] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:44:08] 
+[01:44:08] Server Plugins
+[01:44:08] --------------
+[01:44:08]  Loaded 0 plugins.
+
+[01:44:08] 
+[01:44:08] Filterscripts
+[01:44:08] ---------------
+[01:44:08]   Loading filterscript 'gl_actions.amx'...
+[01:44:08]   Loading filterscript 'gl_realtime.amx'...
+[01:44:08]   Loading filterscript 'gl_property.amx'...
+[01:44:08] 
+-----------------------------------
+[01:44:08] Grand Larceny Property Filterscript		
+[01:44:08] -----------------------------------
+
+[01:44:08]   Loading filterscript 'gl_mapicon.amx'...
+[01:44:08]   Loading filterscript 'ls_elevator.amx'...
+[01:44:08]   Loading filterscript 'attachments.amx'...
+[01:44:08]   Loading filterscript 'skinchanger.amx'...
+[01:44:08] 
+--Admin Player Skin Changer Loaded
+
+[01:44:08]   Loading filterscript 'vspawner.amx'...
+[01:44:08] 
+--Admin Vehicle Spawner Loaded
+
+[01:44:08]   Loading filterscript 'ls_mall.amx'...
+[01:44:08]   Loading filterscript 'ls_beachside.amx'...
+[01:44:08] 
+
+[01:44:08]   |---------------------------------------------------
+[01:44:08]   |--- LS BeachSide Filterscript
+[01:44:08]   |--  Script v1.03
+[01:44:08]   |--  19th April 2015
+[01:44:08]   |---------------------------------------------------
+[01:44:08]   |--  LS BeachSide Building Elevator created
+[01:44:08]   |---------------------------------------------------
+[01:44:08]   Loaded 10 filterscripts.
+
+[01:44:08]  
+[01:44:08]  ======================================= 
+[01:44:08]  |                                     | 
+[01:44:08]  |    Optimising code, this may take   | 
+[01:44:08]  |        a little bit of time.        | 
+[01:44:08]  |                                     | 
+[01:44:08]  |            Please wait...           | 
+[01:44:08]  |                                     | 
+[01:44:08]  |=====================================| 
+[01:44:08]  |                                     | 
+[01:44:08]  | Note that these optimisations are   | 
+[01:44:08]  | designed to improve performance     | 
+[01:44:08]  | with the JIT plugin, which you are  | 
+[01:44:08]  | not currently using.  Get it here:  | 
+[01:44:08]  |                                     | 
+[01:44:08]  |      https://git.io/jit-plugin      | 
+[01:44:08]  |                                     | 
+[01:44:08]  ======================================= 
+[01:44:08]  
+[01:44:08]  
+[01:44:08]  
+[01:44:08]  
+[01:44:08]  ======================================= 
+[01:44:08]  |                                     | 
+[01:44:08]  |        YSI version 5.03.0689        | 
+[01:44:08]  |        By Alex "Y_Less" Cole        | 
+[01:44:08]  |                                     | 
+[01:44:08]  ======================================= 
+[01:44:08]  
+[01:44:08] Reading File: blank
+[01:44:08] Reading File: properties/houses.txt
+[01:44:08] Reading File: properties/businesses.txt
+[01:44:08] Reading File: properties/banks.txt
+[01:44:08] Reading File: properties/police.txt
+[01:44:08] 
+----------------------------------
+[01:44:08] SAMP在线
+[01:44:08] ----------------------------------
+
+[01:44:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:44:34] 
+[01:44:34] Server Plugins
+[01:44:34] --------------
+[01:44:34]  Loaded 0 plugins.
+
+[01:44:34] 
+[01:44:34] Filterscripts
+[01:44:34] ---------------
+[01:44:34]   Loading filterscript 'gl_actions.amx'...
+[01:44:34]   Loading filterscript 'gl_realtime.amx'...
+[01:44:34]   Loading filterscript 'gl_property.amx'...
+[01:44:34] 
+-----------------------------------
+[01:44:34] Grand Larceny Property Filterscript		
+[01:44:34] -----------------------------------
+
+[01:44:34]   Loading filterscript 'gl_mapicon.amx'...
+[01:44:34]   Loading filterscript 'ls_elevator.amx'...
+[01:44:34]   Loading filterscript 'attachments.amx'...
+[01:44:34]   Loading filterscript 'skinchanger.amx'...
+[01:44:34] 
+--Admin Player Skin Changer Loaded
+
+[01:44:34]   Loading filterscript 'vspawner.amx'...
+[01:44:34] 
+--Admin Vehicle Spawner Loaded
+
+[01:44:34]   Loading filterscript 'ls_mall.amx'...
+[01:44:34]   Loading filterscript 'ls_beachside.amx'...
+[01:44:34] 
+
+[01:44:34]   |---------------------------------------------------
+[01:44:34]   |--- LS BeachSide Filterscript
+[01:44:34]   |--  Script v1.03
+[01:44:34]   |--  19th April 2015
+[01:44:34]   |---------------------------------------------------
+[01:44:34]   |--  LS BeachSide Building Elevator created
+[01:44:34]   |---------------------------------------------------
+[01:44:34]   Loaded 10 filterscripts.
+
+[01:44:34]  
+[01:44:34]  ======================================= 
+[01:44:34]  |                                     | 
+[01:44:34]  |    Optimising code, this may take   | 
+[01:44:34]  |        a little bit of time.        | 
+[01:44:34]  |                                     | 
+[01:44:34]  |            Please wait...           | 
+[01:44:34]  |                                     | 
+[01:44:34]  |=====================================| 
+[01:44:34]  |                                     | 
+[01:44:34]  | Note that these optimisations are   | 
+[01:44:34]  | designed to improve performance     | 
+[01:44:34]  | with the JIT plugin, which you are  | 
+[01:44:34]  | not currently using.  Get it here:  | 
+[01:44:34]  |                                     | 
+[01:44:34]  |      https://git.io/jit-plugin      | 
+[01:44:34]  |                                     | 
+[01:44:34]  ======================================= 
+[01:44:34]  
+[01:44:34]  
+[01:44:34]  
+[01:44:34]  
+[01:44:34]  ======================================= 
+[01:44:34]  |                                     | 
+[01:44:34]  |        YSI version 5.03.0689        | 
+[01:44:34]  |        By Alex "Y_Less" Cole        | 
+[01:44:34]  |                                     | 
+[01:44:34]  ======================================= 
+[01:44:34]  
+[01:44:34] Reading File: blank
+[01:44:34] Reading File: properties/houses.txt
+[01:44:34] Reading File: properties/businesses.txt
+[01:44:34] Reading File: properties/banks.txt
+[01:44:34] Reading File: properties/police.txt
+[01:44:34] 
+----------------------------------
+[01:44:34] SAMP Online
+[01:44:34] ----------------------------------
+
+[01:44:34] Number of vehicle models: 0
+[01:45:25] [connection] 127.0.0.1:50383 requests connection cookie.
+[01:45:26] [connection] incoming connection: 127.0.0.1:50383 id: 0
+[01:45:27] [join] Laffer_Aefreg has joined the server (0:127.0.0.1)
+Console input: gmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:46:53] 
+[01:46:53] Server Plugins
+[01:46:53] --------------
+[01:46:53]  Loaded 0 plugins.
+
+[01:46:53] 
+[01:46:53] Filterscripts
+[01:46:53] ---------------
+[01:46:53]   Loading filterscript 'gl_actions.amx'...
+[01:46:53]   Loading filterscript 'gl_realtime.amx'...
+[01:46:53]   Loading filterscript 'gl_property.amx'...
+[01:46:53] 
+-----------------------------------
+[01:46:53] Grand Larceny Property Filterscript		
+[01:46:53] -----------------------------------
+
+[01:46:53]   Loading filterscript 'gl_mapicon.amx'...
+[01:46:53]   Loading filterscript 'ls_elevator.amx'...
+[01:46:53]   Loading filterscript 'attachments.amx'...
+[01:46:53]   Loading filterscript 'skinchanger.amx'...
+[01:46:53] 
+--Admin Player Skin Changer Loaded
+
+[01:46:53]   Loading filterscript 'vspawner.amx'...
+[01:46:53] 
+--Admin Vehicle Spawner Loaded
+
+[01:46:53]   Loading filterscript 'ls_mall.amx'...
+[01:46:53]   Loading filterscript 'ls_beachside.amx'...
+[01:46:53] 
+
+[01:46:53]   |---------------------------------------------------
+[01:46:53]   |--- LS BeachSide Filterscript
+[01:46:53]   |--  Script v1.03
+[01:46:53]   |--  19th April 2015
+[01:46:53]   |---------------------------------------------------
+[01:46:53]   |--  LS BeachSide Building Elevator created
+[01:46:53]   |---------------------------------------------------
+[01:46:53]   Loaded 10 filterscripts.
+
+[01:46:53]  
+[01:46:53]  ======================================= 
+[01:46:53]  |                                     | 
+[01:46:53]  |    Optimising code, this may take   | 
+[01:46:53]  |        a little bit of time.        | 
+[01:46:53]  |                                     | 
+[01:46:53]  |            Please wait...           | 
+[01:46:53]  |                                     | 
+[01:46:53]  |=====================================| 
+[01:46:53]  |                                     | 
+[01:46:53]  | Note that these optimisations are   | 
+[01:46:53]  | designed to improve performance     | 
+[01:46:53]  | with the JIT plugin, which you are  | 
+[01:46:53]  | not currently using.  Get it here:  | 
+[01:46:53]  |                                     | 
+[01:46:53]  |      https://git.io/jit-plugin      | 
+[01:46:53]  |                                     | 
+[01:46:53]  ======================================= 
+[01:46:53]  
+[01:46:53]  
+[01:46:53]  
+[01:46:53]  
+[01:46:53]  ======================================= 
+[01:46:53]  |                                     | 
+[01:46:53]  |        YSI version 5.03.0689        | 
+[01:46:53]  |        By Alex "Y_Less" Cole        | 
+[01:46:53]  |                                     | 
+[01:46:53]  ======================================= 
+[01:46:53]  
+[01:46:53] Reading File: blank
+[01:46:53] Reading File: properties/houses.txt
+[01:46:53] Reading File: properties/businesses.txt
+[01:46:53] Reading File: properties/banks.txt
+[01:46:53] Reading File: properties/police.txt
+[01:46:53] 
+----------------------------------
+[01:46:53] SAMP Online
+[01:46:53] ----------------------------------
+
+[01:46:53] Number of vehicle models: 0
+[01:47:02] [connection] 127.0.0.1:51470 requests connection cookie.
+[01:47:03] [connection] incoming connection: 127.0.0.1:51470 id: 0
+[01:47:03] [join] Laffer_Aefreg has joined the server (0:127.0.0.1)
+Console input: gmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:57:37] 
+[01:57:37] Server Plugins
+[01:57:37] --------------
+[01:57:37]  Loaded 0 plugins.
+
+[01:57:37] 
+[01:57:37] Filterscripts
+[01:57:37] ---------------
+[01:57:37]   Loading filterscript 'gl_actions.amx'...
+[01:57:37]   Loading filterscript 'gl_realtime.amx'...
+[01:57:37]   Loading filterscript 'gl_property.amx'...
+[01:57:37] 
+-----------------------------------
+[01:57:37] Grand Larceny Property Filterscript		
+[01:57:37] -----------------------------------
+
+[01:57:37]   Loading filterscript 'gl_mapicon.amx'...
+[01:57:37]   Loading filterscript 'ls_elevator.amx'...
+[01:57:37]   Loading filterscript 'attachments.amx'...
+[01:57:37]   Loading filterscript 'skinchanger.amx'...
+[01:57:37] 
+--Admin Player Skin Changer Loaded
+
+[01:57:37]   Loading filterscript 'vspawner.amx'...
+[01:57:37] 
+--Admin Vehicle Spawner Loaded
+
+[01:57:37]   Loading filterscript 'ls_mall.amx'...
+[01:57:37]   Loading filterscript 'ls_beachside.amx'...
+[01:57:37] 
+
+[01:57:37]   |---------------------------------------------------
+[01:57:37]   |--- LS BeachSide Filterscript
+[01:57:37]   |--  Script v1.03
+[01:57:37]   |--  19th April 2015
+[01:57:37]   |---------------------------------------------------
+[01:57:37]   |--  LS BeachSide Building Elevator created
+[01:57:37]   |---------------------------------------------------
+[01:57:37]   Loaded 10 filterscripts.
+
+[01:57:37]  
+[01:57:37]  ======================================= 
+[01:57:37]  |                                     | 
+[01:57:37]  |    Optimising code, this may take   | 
+[01:57:37]  |        a little bit of time.        | 
+[01:57:37]  |                                     | 
+[01:57:37]  |            Please wait...           | 
+[01:57:37]  |                                     | 
+[01:57:37]  |=====================================| 
+[01:57:37]  |                                     | 
+[01:57:37]  | Note that these optimisations are   | 
+[01:57:37]  | designed to improve performance     | 
+[01:57:37]  | with the JIT plugin, which you are  | 
+[01:57:37]  | not currently using.  Get it here:  | 
+[01:57:37]  |                                     | 
+[01:57:37]  |      https://git.io/jit-plugin      | 
+[01:57:37]  |                                     | 
+[01:57:37]  ======================================= 
+[01:57:37]  
+[01:57:37]  
+[01:57:37]  
+[01:57:37]  
+[01:57:37]  ======================================= 
+[01:57:37]  |                                     | 
+[01:57:37]  |        YSI version 5.03.0689        | 
+[01:57:37]  |        By Alex "Y_Less" Cole        | 
+[01:57:37]  |                                     | 
+[01:57:37]  ======================================= 
+[01:57:37]  
+[01:57:37] Reading File: blank
+[01:57:37] Reading File: properties/houses.txt
+[01:57:37] Reading File: properties/businesses.txt
+[01:57:37] Reading File: properties/banks.txt
+[01:57:37] Reading File: properties/police.txt
+[01:57:37] 
+----------------------------------
+[01:57:37] SAMP Online
+[01:57:37] ----------------------------------
+
+[01:57:37] Number of vehicle models: 0
+[01:57:48] [connection] 127.0.0.1:61583 requests connection cookie.
+[01:57:49] [connection] incoming connection: 127.0.0.1:61583 id: 0
+[01:57:50] [join] Laffer_Aefreg has joined the server (0:127.0.0.1)
+Console input: gmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:58:50] 
+[01:58:50] Server Plugins
+[01:58:50] --------------
+[01:58:50]  Loaded 0 plugins.
+
+[01:58:50] 
+[01:58:50] Filterscripts
+[01:58:50] ---------------
+[01:58:50]   Loading filterscript 'scannf.amx'...
+[01:58:50]   Unable to load filterscript 'scannf.amx'.
+[01:58:50]   Loading filterscript 'gl_actions.amx'...
+[01:58:50]   Loading filterscript 'gl_realtime.amx'...
+[01:58:50]   Loading filterscript 'gl_property.amx'...
+[01:58:50] 
+-----------------------------------
+[01:58:50] Grand Larceny Property Filterscript		
+[01:58:50] -----------------------------------
+
+[01:58:50]   Loading filterscript 'gl_mapicon.amx'...
+[01:58:50]   Loading filterscript 'ls_elevator.amx'...
+[01:58:50]   Loading filterscript 'attachments.amx'...
+[01:58:50]   Loading filterscript 'skinchanger.amx'...
+[01:58:50] 
+--Admin Player Skin Changer Loaded
+
+[01:58:50]   Loading filterscript 'vspawner.amx'...
+[01:58:50] 
+--Admin Vehicle Spawner Loaded
+
+[01:58:50]   Loading filterscript 'ls_mall.amx'...
+[01:58:50]   Loading filterscript 'ls_beachside.amx'...
+[01:58:50] 
+
+[01:58:50]   |---------------------------------------------------
+[01:58:50]   |--- LS BeachSide Filterscript
+[01:58:50]   |--  Script v1.03
+[01:58:50]   |--  19th April 2015
+[01:58:50]   |---------------------------------------------------
+[01:58:50]   |--  LS BeachSide Building Elevator created
+[01:58:50]   |---------------------------------------------------
+[01:58:50]   Loaded 10 filterscripts.
+
+[01:58:50]  
+[01:58:50]  ======================================= 
+[01:58:50]  |                                     | 
+[01:58:50]  |    Optimising code, this may take   | 
+[01:58:50]  |        a little bit of time.        | 
+[01:58:50]  |                                     | 
+[01:58:50]  |            Please wait...           | 
+[01:58:50]  |                                     | 
+[01:58:50]  |=====================================| 
+[01:58:50]  |                                     | 
+[01:58:50]  | Note that these optimisations are   | 
+[01:58:50]  | designed to improve performance     | 
+[01:58:50]  | with the JIT plugin, which you are  | 
+[01:58:50]  | not currently using.  Get it here:  | 
+[01:58:50]  |                                     | 
+[01:58:50]  |      https://git.io/jit-plugin      | 
+[01:58:50]  |                                     | 
+[01:58:50]  ======================================= 
+[01:58:50]  
+[01:58:50]  
+[01:58:50]  
+[01:58:50]  
+[01:58:50]  ======================================= 
+[01:58:50]  |                                     | 
+[01:58:50]  |        YSI version 5.03.0689        | 
+[01:58:50]  |        By Alex "Y_Less" Cole        | 
+[01:58:50]  |                                     | 
+[01:58:50]  ======================================= 
+[01:58:50]  
+[01:58:50] Reading File: blank
+[01:58:50] Reading File: properties/houses.txt
+[01:58:50] Reading File: properties/businesses.txt
+[01:58:50] Reading File: properties/banks.txt
+[01:58:50] Reading File: properties/police.txt
+[01:58:50] 
+----------------------------------
+[01:58:50] SAMP Online
+[01:58:50] ----------------------------------
+
+[01:58:50] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:59:17] 
+[01:59:17] Server Plugins
+[01:59:17] --------------
+[01:59:17]  Loading plugin: scannf
+[01:59:17]   Failed.
+[01:59:17]  Loaded 0 plugins.
+
+[01:59:17] 
+[01:59:17] Filterscripts
+[01:59:17] ---------------
+[01:59:17]   Loading filterscript 'gl_actions.amx'...
+[01:59:17]   Loading filterscript 'gl_realtime.amx'...
+[01:59:17]   Loading filterscript 'gl_property.amx'...
+[01:59:17] 
+-----------------------------------
+[01:59:17] Grand Larceny Property Filterscript		
+[01:59:17] -----------------------------------
+
+[01:59:17]   Loading filterscript 'gl_mapicon.amx'...
+[01:59:17]   Loading filterscript 'ls_elevator.amx'...
+[01:59:17]   Loading filterscript 'attachments.amx'...
+[01:59:17]   Loading filterscript 'skinchanger.amx'...
+[01:59:17] 
+--Admin Player Skin Changer Loaded
+
+[01:59:17]   Loading filterscript 'vspawner.amx'...
+[01:59:17] 
+--Admin Vehicle Spawner Loaded
+
+[01:59:17]   Loading filterscript 'ls_mall.amx'...
+[01:59:17]   Loading filterscript 'ls_beachside.amx'...
+[01:59:17] 
+
+[01:59:17]   |---------------------------------------------------
+[01:59:17]   |--- LS BeachSide Filterscript
+[01:59:17]   |--  Script v1.03
+[01:59:17]   |--  19th April 2015
+[01:59:17]   |---------------------------------------------------
+[01:59:17]   |--  LS BeachSide Building Elevator created
+[01:59:17]   |---------------------------------------------------
+[01:59:17]   Loaded 10 filterscripts.
+
+[01:59:17]  
+[01:59:17]  ======================================= 
+[01:59:17]  |                                     | 
+[01:59:17]  |    Optimising code, this may take   | 
+[01:59:17]  |        a little bit of time.        | 
+[01:59:17]  |                                     | 
+[01:59:17]  |            Please wait...           | 
+[01:59:17]  |                                     | 
+[01:59:17]  |=====================================| 
+[01:59:17]  |                                     | 
+[01:59:17]  | Note that these optimisations are   | 
+[01:59:17]  | designed to improve performance     | 
+[01:59:17]  | with the JIT plugin, which you are  | 
+[01:59:17]  | not currently using.  Get it here:  | 
+[01:59:17]  |                                     | 
+[01:59:17]  |      https://git.io/jit-plugin      | 
+[01:59:17]  |                                     | 
+[01:59:17]  ======================================= 
+[01:59:17]  
+[01:59:17]  
+[01:59:17]  
+[01:59:17]  
+[01:59:17]  ======================================= 
+[01:59:17]  |                                     | 
+[01:59:17]  |        YSI version 5.03.0689        | 
+[01:59:17]  |        By Alex "Y_Less" Cole        | 
+[01:59:17]  |                                     | 
+[01:59:17]  ======================================= 
+[01:59:17]  
+[01:59:17] Reading File: blank
+[01:59:17] Reading File: properties/houses.txt
+[01:59:17] Reading File: properties/businesses.txt
+[01:59:17] Reading File: properties/banks.txt
+[01:59:17] Reading File: properties/police.txt
+[01:59:17] 
+----------------------------------
+[01:59:17] SAMP Online
+[01:59:17] ----------------------------------
+
+[01:59:17] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:59:36] 
+[01:59:36] Server Plugins
+[01:59:36] --------------
+[01:59:36]  Loading plugin: sscanf
+[01:59:36] 
+
+[01:59:36]  ===============================
+
+[01:59:36]       sscanf plugin loaded.     
+
+[01:59:36]          Version:  2.8.3        
+
+[01:59:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:59:36]  ===============================
+
+[01:59:36]   Loaded.
+[01:59:36]  Loaded 1 plugins.
+
+[01:59:36] 
+[01:59:36] Filterscripts
+[01:59:36] ---------------
+[01:59:36]   Loading filterscript 'gl_actions.amx'...
+[01:59:36]   Loading filterscript 'gl_realtime.amx'...
+[01:59:36]   Loading filterscript 'gl_property.amx'...
+[01:59:36] 
+-----------------------------------
+[01:59:36] Grand Larceny Property Filterscript		
+[01:59:36] -----------------------------------
+
+[01:59:36]   Loading filterscript 'gl_mapicon.amx'...
+[01:59:36]   Loading filterscript 'ls_elevator.amx'...
+[01:59:36]   Loading filterscript 'attachments.amx'...
+[01:59:36]   Loading filterscript 'skinchanger.amx'...
+[01:59:36] 
+--Admin Player Skin Changer Loaded
+
+[01:59:36]   Loading filterscript 'vspawner.amx'...
+[01:59:36] 
+--Admin Vehicle Spawner Loaded
+
+[01:59:36]   Loading filterscript 'ls_mall.amx'...
+[01:59:36]   Loading filterscript 'ls_beachside.amx'...
+[01:59:36] 
+
+[01:59:36]   |---------------------------------------------------
+[01:59:36]   |--- LS BeachSide Filterscript
+[01:59:36]   |--  Script v1.03
+[01:59:36]   |--  19th April 2015
+[01:59:36]   |---------------------------------------------------
+[01:59:36]   |--  LS BeachSide Building Elevator created
+[01:59:36]   |---------------------------------------------------
+[01:59:36]   Loaded 10 filterscripts.
+
+[01:59:36]  
+[01:59:36]  ======================================= 
+[01:59:36]  |                                     | 
+[01:59:36]  |    Optimising code, this may take   | 
+[01:59:36]  |        a little bit of time.        | 
+[01:59:36]  |                                     | 
+[01:59:36]  |            Please wait...           | 
+[01:59:36]  |                                     | 
+[01:59:36]  |=====================================| 
+[01:59:36]  |                                     | 
+[01:59:36]  | Note that these optimisations are   | 
+[01:59:36]  | designed to improve performance     | 
+[01:59:36]  | with the JIT plugin, which you are  | 
+[01:59:36]  | not currently using.  Get it here:  | 
+[01:59:36]  |                                     | 
+[01:59:36]  |      https://git.io/jit-plugin      | 
+[01:59:36]  |                                     | 
+[01:59:36]  ======================================= 
+[01:59:36]  
+[01:59:36]  
+[01:59:36]  
+[01:59:36]  
+[01:59:36]  ======================================= 
+[01:59:36]  |                                     | 
+[01:59:36]  |        YSI version 5.03.0689        | 
+[01:59:36]  |        By Alex "Y_Less" Cole        | 
+[01:59:36]  |                                     | 
+[01:59:36]  ======================================= 
+[01:59:36]  
+[01:59:36] Reading File: blank
+[01:59:36] Reading File: properties/houses.txt
+[01:59:36] Reading File: properties/businesses.txt
+[01:59:36] Reading File: properties/banks.txt
+[01:59:36] Reading File: properties/police.txt
+[01:59:36] 
+----------------------------------
+[01:59:36] SAMP Online
+[01:59:36] ----------------------------------
+
+[01:59:36] Number of vehicle models: 0
+[01:59:42] [connection] 127.0.0.1:50780 requests connection cookie.
+[01:59:43] [connection] incoming connection: 127.0.0.1:50780 id: 0
+[01:59:43] [join] Laffer_Aefreg has joined the server (0:127.0.0.1)
+Console input: gmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:02:12] 
+[02:02:12] Server Plugins
+[02:02:12] --------------
+[02:02:12]  Loading plugin: sscanf
+[02:02:12] 
+
+[02:02:12]  ===============================
+
+[02:02:12]       sscanf plugin loaded.     
+
+[02:02:12]          Version:  2.8.3        
+
+[02:02:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:02:12]  ===============================
+
+[02:02:12]   Loaded.
+[02:02:12]  Loaded 1 plugins.
+
+[02:02:12] 
+[02:02:12] Filterscripts
+[02:02:12] ---------------
+[02:02:12]   Loading filterscript 'gl_actions.amx'...
+[02:02:12]   Loading filterscript 'gl_realtime.amx'...
+[02:02:12]   Loading filterscript 'gl_property.amx'...
+[02:02:12] 
+-----------------------------------
+[02:02:12] Grand Larceny Property Filterscript		
+[02:02:12] -----------------------------------
+
+[02:02:12]   Loading filterscript 'gl_mapicon.amx'...
+[02:02:12]   Loading filterscript 'ls_elevator.amx'...
+[02:02:12]   Loading filterscript 'attachments.amx'...
+[02:02:12]   Loading filterscript 'skinchanger.amx'...
+[02:02:12] 
+--Admin Player Skin Changer Loaded
+
+[02:02:12]   Loading filterscript 'vspawner.amx'...
+[02:02:12] 
+--Admin Vehicle Spawner Loaded
+
+[02:02:12]   Loading filterscript 'ls_mall.amx'...
+[02:02:12]   Loading filterscript 'ls_beachside.amx'...
+[02:02:12] 
+
+[02:02:12]   |---------------------------------------------------
+[02:02:12]   |--- LS BeachSide Filterscript
+[02:02:12]   |--  Script v1.03
+[02:02:12]   |--  19th April 2015
+[02:02:12]   |---------------------------------------------------
+[02:02:12]   |--  LS BeachSide Building Elevator created
+[02:02:12]   |---------------------------------------------------
+[02:02:12]   Loaded 10 filterscripts.
+
+[02:02:12]  
+[02:02:12]  ======================================= 
+[02:02:12]  |                                     | 
+[02:02:12]  |    Optimising code, this may take   | 
+[02:02:12]  |        a little bit of time.        | 
+[02:02:12]  |                                     | 
+[02:02:12]  |            Please wait...           | 
+[02:02:12]  |                                     | 
+[02:02:12]  |=====================================| 
+[02:02:12]  |                                     | 
+[02:02:12]  | Note that these optimisations are   | 
+[02:02:12]  | designed to improve performance     | 
+[02:02:12]  | with the JIT plugin, which you are  | 
+[02:02:12]  | not currently using.  Get it here:  | 
+[02:02:12]  |                                     | 
+[02:02:12]  |      https://git.io/jit-plugin      | 
+[02:02:12]  |                                     | 
+[02:02:12]  ======================================= 
+[02:02:12]  
+[02:02:12]  
+[02:02:12]  
+[02:02:12]  
+[02:02:12]  ======================================= 
+[02:02:12]  |                                     | 
+[02:02:12]  |        YSI version 5.03.0689        | 
+[02:02:12]  |        By Alex "Y_Less" Cole        | 
+[02:02:12]  |                                     | 
+[02:02:12]  ======================================= 
+[02:02:12]  
+[02:02:12] Reading File: blank
+[02:02:12] Reading File: properties/houses.txt
+[02:02:12] Reading File: properties/businesses.txt
+[02:02:12] Reading File: properties/banks.txt
+[02:02:12] Reading File: properties/police.txt
+[02:02:12] 
+----------------------------------
+[02:02:12] SAMP Online
+[02:02:12] ----------------------------------
+
+[02:02:12] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:05:12] 
+[02:05:12] Server Plugins
+[02:05:12] --------------
+[02:05:12]  Loading plugin: sscanf
+[02:05:12] 
+
+[02:05:12]  ===============================
+
+[02:05:12]       sscanf plugin loaded.     
+
+[02:05:12]          Version:  2.8.3        
+
+[02:05:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:05:12]  ===============================
+
+[02:05:12]   Loaded.
+[02:05:12]  Loaded 1 plugins.
+
+[02:05:12] 
+[02:05:12] Filterscripts
+[02:05:12] ---------------
+[02:05:12]   Loading filterscript 'gl_actions.amx'...
+[02:05:12]   Loading filterscript 'gl_realtime.amx'...
+[02:05:12]   Loading filterscript 'gl_property.amx'...
+[02:05:12] 
+-----------------------------------
+[02:05:12] Grand Larceny Property Filterscript		
+[02:05:12] -----------------------------------
+
+[02:05:12]   Loading filterscript 'gl_mapicon.amx'...
+[02:05:12]   Loading filterscript 'ls_elevator.amx'...
+[02:05:12]   Loading filterscript 'attachments.amx'...
+[02:05:12]   Loading filterscript 'skinchanger.amx'...
+[02:05:12] 
+--Admin Player Skin Changer Loaded
+
+[02:05:12]   Loading filterscript 'vspawner.amx'...
+[02:05:12] 
+--Admin Vehicle Spawner Loaded
+
+[02:05:12]   Loading filterscript 'ls_mall.amx'...
+[02:05:12]   Loading filterscript 'ls_beachside.amx'...
+[02:05:12] 
+
+[02:05:12]   |---------------------------------------------------
+[02:05:12]   |--- LS BeachSide Filterscript
+[02:05:12]   |--  Script v1.03
+[02:05:12]   |--  19th April 2015
+[02:05:12]   |---------------------------------------------------
+[02:05:12]   |--  LS BeachSide Building Elevator created
+[02:05:12]   |---------------------------------------------------
+[02:05:12]   Loaded 10 filterscripts.
+
+[02:05:12]  
+[02:05:12]  ======================================= 
+[02:05:12]  |                                     | 
+[02:05:12]  |    Optimising code, this may take   | 
+[02:05:12]  |        a little bit of time.        | 
+[02:05:12]  |                                     | 
+[02:05:12]  |            Please wait...           | 
+[02:05:12]  |                                     | 
+[02:05:12]  |=====================================| 
+[02:05:12]  |                                     | 
+[02:05:12]  | Note that these optimisations are   | 
+[02:05:12]  | designed to improve performance     | 
+[02:05:12]  | with the JIT plugin, which you are  | 
+[02:05:12]  | not currently using.  Get it here:  | 
+[02:05:12]  |                                     | 
+[02:05:12]  |      https://git.io/jit-plugin      | 
+[02:05:12]  |                                     | 
+[02:05:12]  ======================================= 
+[02:05:12]  
+[02:05:12]  
+[02:05:12]  
+[02:05:12]  
+[02:05:12]  ======================================= 
+[02:05:12]  |                                     | 
+[02:05:12]  |        YSI version 5.03.0689        | 
+[02:05:12]  |        By Alex "Y_Less" Cole        | 
+[02:05:12]  |                                     | 
+[02:05:12]  ======================================= 
+[02:05:12]  
+[02:05:12] Reading File: blank
+[02:05:12] Reading File: properties/houses.txt
+[02:05:12] Reading File: properties/businesses.txt
+[02:05:12] Reading File: properties/banks.txt
+[02:05:12] Reading File: properties/police.txt
+[02:05:12] 
+----------------------------------
+[02:05:12] SAMP Online
+[02:05:12] ----------------------------------
+
+[02:05:12] Number of vehicle models: 0
+[02:05:13] [connection] 127.0.0.1:53841 requests connection cookie.
+[02:05:14] [connection] incoming connection: 127.0.0.1:53841 id: 0
+[02:05:14] [join] Laffer_Aefreg has joined the server (0:127.0.0.1)
+Console input: gmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:38:05] 
+[02:38:05] Server Plugins
+[02:38:05] --------------
+[02:38:05]  Loading plugin: sscanf
+[02:38:05] 
+
+[02:38:05]  ===============================
+
+[02:38:05]       sscanf plugin loaded.     
+
+[02:38:05]          Version:  2.8.3        
+
+[02:38:05]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:38:05]  ===============================
+
+[02:38:05]   Loaded.
+[02:38:05]  Loaded 1 plugins.
+
+[02:38:05] 
+[02:38:05] Filterscripts
+[02:38:05] ---------------
+[02:38:05]   Loading filterscript 'gl_actions.amx'...
+[02:38:05]   Loading filterscript 'gl_realtime.amx'...
+[02:38:05]   Loading filterscript 'gl_property.amx'...
+[02:38:05] 
+-----------------------------------
+[02:38:05] Grand Larceny Property Filterscript		
+[02:38:05] -----------------------------------
+
+[02:38:05]   Loading filterscript 'gl_mapicon.amx'...
+[02:38:05]   Loading filterscript 'ls_elevator.amx'...
+[02:38:05]   Loading filterscript 'attachments.amx'...
+[02:38:05]   Loading filterscript 'skinchanger.amx'...
+[02:38:05] 
+--Admin Player Skin Changer Loaded
+
+[02:38:05]   Loading filterscript 'vspawner.amx'...
+[02:38:05] 
+--Admin Vehicle Spawner Loaded
+
+[02:38:05]   Loading filterscript 'ls_mall.amx'...
+[02:38:05]   Loading filterscript 'ls_beachside.amx'...
+[02:38:05] 
+
+[02:38:05]   |---------------------------------------------------
+[02:38:05]   |--- LS BeachSide Filterscript
+[02:38:05]   |--  Script v1.03
+[02:38:05]   |--  19th April 2015
+[02:38:05]   |---------------------------------------------------
+[02:38:05]   |--  LS BeachSide Building Elevator created
+[02:38:05]   |---------------------------------------------------
+[02:38:05]   Loaded 10 filterscripts.
+
+[02:38:05]  
+[02:38:05]  ======================================= 
+[02:38:05]  |                                     | 
+[02:38:05]  |    Optimising code, this may take   | 
+[02:38:05]  |        a little bit of time.        | 
+[02:38:05]  |                                     | 
+[02:38:05]  |            Please wait...           | 
+[02:38:05]  |                                     | 
+[02:38:05]  |=====================================| 
+[02:38:05]  |                                     | 
+[02:38:05]  | Note that these optimisations are   | 
+[02:38:05]  | designed to improve performance     | 
+[02:38:05]  | with the JIT plugin, which you are  | 
+[02:38:05]  | not currently using.  Get it here:  | 
+[02:38:05]  |                                     | 
+[02:38:05]  |      https://git.io/jit-plugin      | 
+[02:38:05]  |                                     | 
+[02:38:05]  ======================================= 
+[02:38:05]  
+[02:38:05]  
+[02:38:05]  
+[02:38:05]  
+[02:38:05]  ======================================= 
+[02:38:05]  |                                     | 
+[02:38:05]  |        YSI version 5.03.0689        | 
+[02:38:05]  |        By Alex "Y_Less" Cole        | 
+[02:38:05]  |                                     | 
+[02:38:05]  ======================================= 
+[02:38:05]  
+[02:38:05] Reading File: blank
+[02:38:05] Reading File: properties/houses.txt
+[02:38:05] Reading File: properties/businesses.txt
+[02:38:05] Reading File: properties/banks.txt
+[02:38:05] Reading File: properties/police.txt
+[02:38:05] 
+----------------------------------
+[02:38:05] SAMP Online
+[02:38:05] ----------------------------------
+
+[02:38:05] Number of vehicle models: 0
+[02:38:17] [connection] 127.0.0.1:52611 requests connection cookie.
+[02:38:18] [connection] incoming connection: 127.0.0.1:52611 id: 0
+[02:38:18] [join] Laffer_Aefreg has joined the server (0:127.0.0.1)
+[02:38:45] [part] Laffer_Aefreg has left the server (0:0)
+[02:38:54] [connection] 127.0.0.1:50880 requests connection cookie.
+[02:38:55] [connection] incoming connection: 127.0.0.1:50880 id: 0
+[02:38:55] [join] Laffer_Aefreg has joined the server (0:127.0.0.1)
+Console input: gmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:52:20] 
+[02:52:20] Server Plugins
+[02:52:20] --------------
+[02:52:20]  Loading plugin: sscanf
+[02:52:20] 
+
+[02:52:20]  ===============================
+
+[02:52:20]       sscanf plugin loaded.     
+
+[02:52:20]          Version:  2.8.3        
+
+[02:52:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:52:20]  ===============================
+
+[02:52:20]   Loaded.
+[02:52:20]  Loaded 1 plugins.
+
+[02:52:20] 
+[02:52:20] Filterscripts
+[02:52:20] ---------------
+[02:52:20]   Loading filterscript 'gl_actions.amx'...
+[02:52:20]   Loading filterscript 'gl_realtime.amx'...
+[02:52:20]   Loading filterscript 'gl_property.amx'...
+[02:52:20] 
+-----------------------------------
+[02:52:20] Grand Larceny Property Filterscript		
+[02:52:20] -----------------------------------
+
+[02:52:20]   Loading filterscript 'gl_mapicon.amx'...
+[02:52:20]   Loading filterscript 'ls_elevator.amx'...
+[02:52:20]   Loading filterscript 'attachments.amx'...
+[02:52:20]   Loading filterscript 'skinchanger.amx'...
+[02:52:20] 
+--Admin Player Skin Changer Loaded
+
+[02:52:20]   Loading filterscript 'vspawner.amx'...
+[02:52:20] 
+--Admin Vehicle Spawner Loaded
+
+[02:52:20]   Loading filterscript 'ls_mall.amx'...
+[02:52:20]   Loading filterscript 'ls_beachside.amx'...
+[02:52:20] 
+
+[02:52:20]   |---------------------------------------------------
+[02:52:20]   |--- LS BeachSide Filterscript
+[02:52:20]   |--  Script v1.03
+[02:52:20]   |--  19th April 2015
+[02:52:20]   |---------------------------------------------------
+[02:52:20]   |--  LS BeachSide Building Elevator created
+[02:52:20]   |---------------------------------------------------
+[02:52:20]   Loaded 10 filterscripts.
+
+[02:52:20]  
+[02:52:20]  ======================================= 
+[02:52:20]  |                                     | 
+[02:52:20]  |    Optimising code, this may take   | 
+[02:52:20]  |        a little bit of time.        | 
+[02:52:20]  |                                     | 
+[02:52:20]  |            Please wait...           | 
+[02:52:20]  |                                     | 
+[02:52:20]  |=====================================| 
+[02:52:20]  |                                     | 
+[02:52:20]  | Note that these optimisations are   | 
+[02:52:20]  | designed to improve performance     | 
+[02:52:20]  | with the JIT plugin, which you are  | 
+[02:52:20]  | not currently using.  Get it here:  | 
+[02:52:20]  |                                     | 
+[02:52:20]  |      https://git.io/jit-plugin      | 
+[02:52:20]  |                                     | 
+[02:52:20]  ======================================= 
+[02:52:20]  
+[02:52:20]  
+[02:52:20]  
+[02:52:20]  
+[02:52:20]  ======================================= 
+[02:52:20]  |                                     | 
+[02:52:20]  |        YSI version 5.03.0689        | 
+[02:52:20]  |        By Alex "Y_Less" Cole        | 
+[02:52:20]  |                                     | 
+[02:52:20]  ======================================= 
+[02:52:20]  
+[02:52:20] Reading File: blank
+[02:52:20] Reading File: properties/houses.txt
+[02:52:20] Reading File: properties/businesses.txt
+[02:52:20] Reading File: properties/banks.txt
+[02:52:20] Reading File: properties/police.txt
+[02:52:20] 
+----------------------------------
+[02:52:20] SAMP Online
+[02:52:20] ----------------------------------
+
+[02:52:20] Number of vehicle models: 0
+[02:52:30] [connection] 127.0.0.1:53204 requests connection cookie.
+[02:52:31] [connection] incoming connection: 127.0.0.1:53204 id: 0
+[02:52:41] [connection] incoming connection: 127.0.0.1:51187 id: 0
+[02:52:43] [join] Laffer_Aefreg has joined the server (0:127.0.0.1)
+Console input: gmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:56:34] 
+[02:56:34] Server Plugins
+[02:56:34] --------------
+[02:56:34]  Loading plugin: sscanf
+[02:56:34] 
+
+[02:56:34]  ===============================
+
+[02:56:34]       sscanf plugin loaded.     
+
+[02:56:34]          Version:  2.8.3        
+
+[02:56:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:56:34]  ===============================
+
+[02:56:34]   Loaded.
+[02:56:34]  Loaded 1 plugins.
+
+[02:56:34] 
+[02:56:34] Filterscripts
+[02:56:34] ---------------
+[02:56:34]   Loading filterscript 'gl_actions.amx'...
+[02:56:34]   Loading filterscript 'gl_realtime.amx'...
+[02:56:34]   Loading filterscript 'gl_property.amx'...
+[02:56:34] 
+-----------------------------------
+[02:56:34] Grand Larceny Property Filterscript		
+[02:56:34] -----------------------------------
+
+[02:56:34]   Loading filterscript 'gl_mapicon.amx'...
+[02:56:34]   Loading filterscript 'ls_elevator.amx'...
+[02:56:34]   Loading filterscript 'attachments.amx'...
+[02:56:34]   Loading filterscript 'skinchanger.amx'...
+[02:56:34] 
+--Admin Player Skin Changer Loaded
+
+[02:56:34]   Loading filterscript 'vspawner.amx'...
+[02:56:34] 
+--Admin Vehicle Spawner Loaded
+
+[02:56:34]   Loading filterscript 'ls_mall.amx'...
+[02:56:34]   Loading filterscript 'ls_beachside.amx'...
+[02:56:34] 
+
+[02:56:34]   |---------------------------------------------------
+[02:56:34]   |--- LS BeachSide Filterscript
+[02:56:34]   |--  Script v1.03
+[02:56:34]   |--  19th April 2015
+[02:56:34]   |---------------------------------------------------
+[02:56:34]   |--  LS BeachSide Building Elevator created
+[02:56:34]   |---------------------------------------------------
+[02:56:34]   Loaded 10 filterscripts.
+
+[02:56:34]  
+[02:56:34]  ======================================= 
+[02:56:34]  |                                     | 
+[02:56:34]  |    Optimising code, this may take   | 
+[02:56:34]  |        a little bit of time.        | 
+[02:56:34]  |                                     | 
+[02:56:34]  |            Please wait...           | 
+[02:56:34]  |                                     | 
+[02:56:34]  |=====================================| 
+[02:56:34]  |                                     | 
+[02:56:34]  | Note that these optimisations are   | 
+[02:56:34]  | designed to improve performance     | 
+[02:56:34]  | with the JIT plugin, which you are  | 
+[02:56:34]  | not currently using.  Get it here:  | 
+[02:56:34]  |                                     | 
+[02:56:34]  |      https://git.io/jit-plugin      | 
+[02:56:34]  |                                     | 
+[02:56:34]  ======================================= 
+[02:56:34]  
+[02:56:34]  
+[02:56:34]  
+[02:56:34]  
+[02:56:34]  ======================================= 
+[02:56:34]  |                                     | 
+[02:56:34]  |        YSI version 5.03.0689        | 
+[02:56:34]  |        By Alex "Y_Less" Cole        | 
+[02:56:34]  |                                     | 
+[02:56:34]  ======================================= 
+[02:56:34]  
+[02:56:34] Reading File: blank
+[02:56:34] Reading File: properties/houses.txt
+[02:56:34] Reading File: properties/businesses.txt
+[02:56:34] Reading File: properties/banks.txt
+[02:56:34] Reading File: properties/police.txt
+[02:56:34] 
+----------------------------------
+[02:56:34] SAMP Online
+[02:56:34] ----------------------------------
+
+[02:56:34] Number of vehicle models: 0
+[02:56:45] [connection] 127.0.0.1:54560 requests connection cookie.
+[02:56:46] [connection] incoming connection: 127.0.0.1:54560 id: 0
+[02:56:46] [join] Laffer_Aefreg has joined the server (0:127.0.0.1)
+[02:58:19] [part] Laffer_Aefreg has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:59:44] 
+[02:59:44] Server Plugins
+[02:59:44] --------------
+[02:59:44]  Loading plugin: sscanf
+[02:59:44] 
+
+[02:59:44]  ===============================
+
+[02:59:44]       sscanf plugin loaded.     
+
+[02:59:44]          Version:  2.8.3        
+
+[02:59:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:59:44]  ===============================
+
+[02:59:44]   Loaded.
+[02:59:44]  Loaded 1 plugins.
+
+[02:59:44] 
+[02:59:44] Filterscripts
+[02:59:44] ---------------
+[02:59:44]   Loading filterscript 'gl_actions.amx'...
+[02:59:44]   Loading filterscript 'gl_realtime.amx'...
+[02:59:44]   Loading filterscript 'gl_property.amx'...
+[02:59:44] 
+-----------------------------------
+[02:59:44] Grand Larceny Property Filterscript		
+[02:59:44] -----------------------------------
+
+[02:59:44]   Loading filterscript 'gl_mapicon.amx'...
+[02:59:44]   Loading filterscript 'ls_elevator.amx'...
+[02:59:44]   Loading filterscript 'attachments.amx'...
+[02:59:44]   Loading filterscript 'skinchanger.amx'...
+[02:59:44] 
+--Admin Player Skin Changer Loaded
+
+[02:59:44]   Loading filterscript 'vspawner.amx'...
+[02:59:44] 
+--Admin Vehicle Spawner Loaded
+
+[02:59:44]   Loading filterscript 'ls_mall.amx'...
+[02:59:44]   Loading filterscript 'ls_beachside.amx'...
+[02:59:44] 
+
+[02:59:44]   |---------------------------------------------------
+[02:59:44]   |--- LS BeachSide Filterscript
+[02:59:44]   |--  Script v1.03
+[02:59:44]   |--  19th April 2015
+[02:59:44]   |---------------------------------------------------
+[02:59:44]   |--  LS BeachSide Building Elevator created
+[02:59:44]   |---------------------------------------------------
+[02:59:44]   Loaded 10 filterscripts.
+
+[02:59:44]  
+[02:59:44]  ======================================= 
+[02:59:44]  |                                     | 
+[02:59:44]  |    Optimising code, this may take   | 
+[02:59:44]  |        a little bit of time.        | 
+[02:59:44]  |                                     | 
+[02:59:44]  |            Please wait...           | 
+[02:59:44]  |                                     | 
+[02:59:44]  |=====================================| 
+[02:59:44]  |                                     | 
+[02:59:44]  | Note that these optimisations are   | 
+[02:59:44]  | designed to improve performance     | 
+[02:59:44]  | with the JIT plugin, which you are  | 
+[02:59:44]  | not currently using.  Get it here:  | 
+[02:59:44]  |                                     | 
+[02:59:44]  |      https://git.io/jit-plugin      | 
+[02:59:44]  |                                     | 
+[02:59:44]  ======================================= 
+[02:59:44]  
+[02:59:44]  
+[02:59:44]  
+[02:59:44]  
+[02:59:44]  ======================================= 
+[02:59:44]  |                                     | 
+[02:59:44]  |        YSI version 5.03.0689        | 
+[02:59:44]  |        By Alex "Y_Less" Cole        | 
+[02:59:44]  |                                     | 
+[02:59:44]  ======================================= 
+[02:59:44]  
+[02:59:44] Reading File: blank
+[02:59:44] Reading File: properties/houses.txt
+[02:59:44] Reading File: properties/businesses.txt
+[02:59:44] Reading File: properties/banks.txt
+[02:59:44] Reading File: properties/police.txt
+[02:59:44] 
+----------------------------------
+[02:59:44] SAMP Online
+[02:59:44] ----------------------------------
+
+[02:59:44] Number of vehicle models: 0
+[03:00:33] [connection] 127.0.0.1:50396 requests connection cookie.
+[03:00:34] [connection] incoming connection: 127.0.0.1:50396 id: 0
+[03:00:35] [join] Laffer_Aefreg has joined the server (0:127.0.0.1)
+[03:01:31] [part] Laffer_Aefreg has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:03:59] 
+[03:03:59] Server Plugins
+[03:03:59] --------------
+[03:03:59]  Loading plugin: sscanf
+[03:03:59] 
+
+[03:03:59]  ===============================
+
+[03:03:59]       sscanf plugin loaded.     
+
+[03:03:59]          Version:  2.8.3        
+
+[03:03:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:03:59]  ===============================
+
+[03:03:59]   Loaded.
+[03:03:59]  Loaded 1 plugins.
+
+[03:03:59] 
+[03:03:59] Filterscripts
+[03:03:59] ---------------
+[03:03:59]   Loading filterscript 'gl_actions.amx'...
+[03:03:59]   Loading filterscript 'gl_realtime.amx'...
+[03:03:59]   Loading filterscript 'gl_property.amx'...
+[03:03:59] 
+-----------------------------------
+[03:03:59] Grand Larceny Property Filterscript		
+[03:03:59] -----------------------------------
+
+[03:03:59]   Loading filterscript 'gl_mapicon.amx'...
+[03:03:59]   Loading filterscript 'ls_elevator.amx'...
+[03:03:59]   Loading filterscript 'attachments.amx'...
+[03:03:59]   Loading filterscript 'skinchanger.amx'...
+[03:03:59] 
+--Admin Player Skin Changer Loaded
+
+[03:03:59]   Loading filterscript 'vspawner.amx'...
+[03:03:59] 
+--Admin Vehicle Spawner Loaded
+
+[03:03:59]   Loading filterscript 'ls_mall.amx'...
+[03:03:59]   Loading filterscript 'ls_beachside.amx'...
+[03:03:59] 
+
+[03:03:59]   |---------------------------------------------------
+[03:03:59]   |--- LS BeachSide Filterscript
+[03:03:59]   |--  Script v1.03
+[03:03:59]   |--  19th April 2015
+[03:03:59]   |---------------------------------------------------
+[03:03:59]   |--  LS BeachSide Building Elevator created
+[03:03:59]   |---------------------------------------------------
+[03:03:59]   Loaded 10 filterscripts.
+
+[03:03:59]  
+[03:03:59]  ======================================= 
+[03:03:59]  |                                     | 
+[03:03:59]  |    Optimising code, this may take   | 
+[03:03:59]  |        a little bit of time.        | 
+[03:03:59]  |                                     | 
+[03:03:59]  |            Please wait...           | 
+[03:03:59]  |                                     | 
+[03:03:59]  |=====================================| 
+[03:03:59]  |                                     | 
+[03:03:59]  | Note that these optimisations are   | 
+[03:03:59]  | designed to improve performance     | 
+[03:03:59]  | with the JIT plugin, which you are  | 
+[03:03:59]  | not currently using.  Get it here:  | 
+[03:03:59]  |                                     | 
+[03:03:59]  |      https://git.io/jit-plugin      | 
+[03:03:59]  |                                     | 
+[03:03:59]  ======================================= 
+[03:03:59]  
+[03:03:59]  
+[03:03:59]  
+[03:03:59]  
+[03:03:59]  ======================================= 
+[03:03:59]  |                                     | 
+[03:03:59]  |        YSI version 5.03.0689        | 
+[03:03:59]  |        By Alex "Y_Less" Cole        | 
+[03:03:59]  |                                     | 
+[03:03:59]  ======================================= 
+[03:03:59]  
+[03:03:59] Reading File: blank
+[03:03:59] Reading File: properties/houses.txt
+[03:03:59] Reading File: properties/businesses.txt
+[03:03:59] Reading File: properties/banks.txt
+[03:03:59] Reading File: properties/police.txt
+[03:03:59] 
+----------------------------------
+[03:03:59] SAMP Online
+[03:03:59] ----------------------------------
+
+[03:03:59] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:04:25] 
+[03:04:25] Server Plugins
+[03:04:25] --------------
+[03:04:25]  Loading plugin: sscanf
+[03:04:25] 
+
+[03:04:25]  ===============================
+
+[03:04:25]       sscanf plugin loaded.     
+
+[03:04:25]          Version:  2.8.3        
+
+[03:04:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:04:25]  ===============================
+
+[03:04:25]   Loaded.
+[03:04:25]  Loaded 1 plugins.
+
+[03:04:25] 
+[03:04:25] Filterscripts
+[03:04:25] ---------------
+[03:04:25]   Loading filterscript 'gl_actions.amx'...
+[03:04:25]   Loading filterscript 'gl_realtime.amx'...
+[03:04:25]   Loading filterscript 'gl_property.amx'...
+[03:04:25] 
+-----------------------------------
+[03:04:25] Grand Larceny Property Filterscript		
+[03:04:25] -----------------------------------
+
+[03:04:25]   Loading filterscript 'gl_mapicon.amx'...
+[03:04:25]   Loading filterscript 'ls_elevator.amx'...
+[03:04:25]   Loading filterscript 'attachments.amx'...
+[03:04:25]   Loading filterscript 'skinchanger.amx'...
+[03:04:25] 
+--Admin Player Skin Changer Loaded
+
+[03:04:25]   Loading filterscript 'vspawner.amx'...
+[03:04:25] 
+--Admin Vehicle Spawner Loaded
+
+[03:04:25]   Loading filterscript 'ls_mall.amx'...
+[03:04:25]   Loading filterscript 'ls_beachside.amx'...
+[03:04:25] 
+
+[03:04:25]   |---------------------------------------------------
+[03:04:25]   |--- LS BeachSide Filterscript
+[03:04:25]   |--  Script v1.03
+[03:04:25]   |--  19th April 2015
+[03:04:25]   |---------------------------------------------------
+[03:04:25]   |--  LS BeachSide Building Elevator created
+[03:04:25]   |---------------------------------------------------
+[03:04:25]   Loaded 10 filterscripts.
+
+[03:04:25]  
+[03:04:25]  ======================================= 
+[03:04:25]  |                                     | 
+[03:04:25]  |    Optimising code, this may take   | 
+[03:04:25]  |        a little bit of time.        | 
+[03:04:25]  |                                     | 
+[03:04:25]  |            Please wait...           | 
+[03:04:25]  |                                     | 
+[03:04:25]  |=====================================| 
+[03:04:25]  |                                     | 
+[03:04:25]  | Note that these optimisations are   | 
+[03:04:25]  | designed to improve performance     | 
+[03:04:25]  | with the JIT plugin, which you are  | 
+[03:04:25]  | not currently using.  Get it here:  | 
+[03:04:25]  |                                     | 
+[03:04:25]  |      https://git.io/jit-plugin      | 
+[03:04:25]  |                                     | 
+[03:04:25]  ======================================= 
+[03:04:25]  
+[03:04:25]  
+[03:04:25]  
+[03:04:25]  
+[03:04:25]  ======================================= 
+[03:04:25]  |                                     | 
+[03:04:25]  |        YSI version 5.03.0689        | 
+[03:04:25]  |        By Alex "Y_Less" Cole        | 
+[03:04:25]  |                                     | 
+[03:04:25]  ======================================= 
+[03:04:25]  
+[03:04:25] Loaded 15 vehicles from: vehicles/lv_law.txt
+[03:04:25] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[03:04:25] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[03:04:25] Loaded 38 vehicles from: vehicles/sf_law.txt
+[03:04:25] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[03:04:25] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[03:04:25] Loaded 24 vehicles from: vehicles/ls_law.txt
+[03:04:25] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[03:04:25] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[03:04:25] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[03:04:25] Loaded 71 vehicles from: vehicles/whetstone.txt
+[03:04:25] Loaded 168 vehicles from: vehicles/bone.txt
+[03:04:25] Loaded 61 vehicles from: vehicles/flint.txt
+[03:04:25] Loaded 96 vehicles from: vehicles/tierra.txt
+[03:04:25] Loaded 96 vehicles from: vehicles/red_county.txt
+[03:04:25] Total vehicles from files: 1775
+[03:04:25] Reading File: blank
+[03:04:25] Reading File: properties/houses.txt
+[03:04:25] Reading File: properties/businesses.txt
+[03:04:25] Reading File: properties/banks.txt
+[03:04:25] Reading File: properties/police.txt
+[03:04:25] 
+----------------------------------
+[03:04:25] SAMP Online
+[03:04:25] ----------------------------------
+
+[03:04:25] Number of vehicle models: 170
+[03:04:51] [connection] 127.0.0.1:58759 requests connection cookie.
+[03:04:52] [connection] incoming connection: 127.0.0.1:58759 id: 0
+[03:04:52] [join] Laffer_Aefreg has joined the server (0:127.0.0.1)
+[03:10:37] [part] Laffer_Aefreg has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:38:53] 
+[03:38:53] Server Plugins
+[03:38:53] --------------
+[03:38:53]  Loading plugin: sscanf
+[03:38:53] 
+
+[03:38:53]  ===============================
+
+[03:38:53]       sscanf plugin loaded.     
+
+[03:38:53]          Version:  2.8.3        
+
+[03:38:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[03:38:53]  ===============================
+
+[03:38:53]   Loaded.
+[03:38:53]  Loaded 1 plugins.
+
+[03:38:53] 
+[03:38:53] Filterscripts
+[03:38:53] ---------------
+[03:38:53]   Loading filterscript 'gl_actions.amx'...
+[03:38:53]   Loading filterscript 'gl_realtime.amx'...
+[03:38:53]   Loading filterscript 'gl_property.amx'...
+[03:38:53] 
+-----------------------------------
+[03:38:53] Grand Larceny Property Filterscript		
+[03:38:53] -----------------------------------
+
+[03:38:53]   Loading filterscript 'gl_mapicon.amx'...
+[03:38:53]   Loading filterscript 'ls_elevator.amx'...
+[03:38:53]   Loading filterscript 'attachments.amx'...
+[03:38:53]   Loading filterscript 'skinchanger.amx'...
+[03:38:53] 
+--Admin Player Skin Changer Loaded
+
+[03:38:53]   Loading filterscript 'vspawner.amx'...
+[03:38:53] 
+--Admin Vehicle Spawner Loaded
+
+[03:38:53]   Loading filterscript 'ls_mall.amx'...
+[03:38:53]   Loading filterscript 'ls_beachside.amx'...
+[03:38:53] 
+
+[03:38:53]   |---------------------------------------------------
+[03:38:53]   |--- LS BeachSide Filterscript
+[03:38:53]   |--  Script v1.03
+[03:38:53]   |--  19th April 2015
+[03:38:53]   |---------------------------------------------------
+[03:38:53]   |--  LS BeachSide Building Elevator created
+[03:38:53]   |---------------------------------------------------
+[03:38:53]   Loaded 10 filterscripts.
+
+[03:38:53]  
+[03:38:53]  ======================================= 
+[03:38:53]  |                                     | 
+[03:38:53]  |    Optimising code, this may take   | 
+[03:38:53]  |        a little bit of time.        | 
+[03:38:53]  |                                     | 
+[03:38:53]  |            Please wait...           | 
+[03:38:53]  |                                     | 
+[03:38:53]  |=====================================| 
+[03:38:53]  |                                     | 
+[03:38:53]  | Note that these optimisations are   | 
+[03:38:53]  | designed to improve performance     | 
+[03:38:53]  | with the JIT plugin, which you are  | 
+[03:38:53]  | not currently using.  Get it here:  | 
+[03:38:53]  |                                     | 
+[03:38:53]  |      https://git.io/jit-plugin      | 
+[03:38:53]  |                                     | 
+[03:38:53]  ======================================= 
+[03:38:53]  
+[03:38:53]  
+[03:38:53]  
+[03:38:53]  
+[03:38:53]  ======================================= 
+[03:38:53]  |                                     | 
+[03:38:53]  |        YSI version 5.03.0689        | 
+[03:38:53]  |        By Alex "Y_Less" Cole        | 
+[03:38:53]  |                                     | 
+[03:38:53]  ======================================= 
+[03:38:53]  
+[03:38:53] Loaded 15 vehicles from: vehicles/lv_law.txt
+[03:38:53] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[03:38:53] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[03:38:53] Loaded 38 vehicles from: vehicles/sf_law.txt
+[03:38:53] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[03:38:53] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[03:38:53] Loaded 24 vehicles from: vehicles/ls_law.txt
+[03:38:53] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[03:38:53] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[03:38:53] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[03:38:53] Loaded 71 vehicles from: vehicles/whetstone.txt
+[03:38:53] Loaded 168 vehicles from: vehicles/bone.txt
+[03:38:53] Loaded 61 vehicles from: vehicles/flint.txt
+[03:38:53] Loaded 96 vehicles from: vehicles/tierra.txt
+[03:38:53] Loaded 96 vehicles from: vehicles/red_county.txt
+[03:38:53] Total vehicles from files: 1775
+[03:38:53] Reading File: blank
+[03:38:53] Reading File: properties/houses.txt
+[03:38:53] Reading File: properties/businesses.txt
+[03:38:53] Reading File: properties/banks.txt
+[03:38:53] Reading File: properties/police.txt
+[03:38:53] 
+----------------------------------
+[03:38:53] SAMP Online
+[03:38:53] ----------------------------------
+
+[03:38:53] Number of vehicle models: 170
+[03:39:13] [connection] 127.0.0.1:62203 requests connection cookie.
+[03:39:14] [connection] incoming connection: 127.0.0.1:62203 id: 0
+[03:39:15] [join] Laffer_Aefreg has joined the server (0:127.0.0.1)
+[03:50:50] [part] Laffer_Aefreg has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:01:46] 
+[13:01:46] Server Plugins
+[13:01:46] --------------
+[13:01:46]  Loading plugin: sscanf
+[13:01:46] 
+
+[13:01:46]  ===============================
+
+[13:01:46]       sscanf plugin loaded.     
+
+[13:01:46]          Version:  2.8.3        
+
+[13:01:46]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:01:46]  ===============================
+
+[13:01:46]   Loaded.
+[13:01:46]  Loaded 1 plugins.
+
+[13:01:46] 
+[13:01:46] Filterscripts
+[13:01:46] ---------------
+[13:01:46]   Loading filterscript 'gl_actions.amx'...
+[13:01:46]   Loading filterscript 'gl_realtime.amx'...
+[13:01:46]   Loading filterscript 'gl_property.amx'...
+[13:01:46] 
+-----------------------------------
+[13:01:46] Grand Larceny Property Filterscript		
+[13:01:46] -----------------------------------
+
+[13:01:46]   Loading filterscript 'gl_mapicon.amx'...
+[13:01:46]   Loading filterscript 'ls_elevator.amx'...
+[13:01:46]   Loading filterscript 'attachments.amx'...
+[13:01:46]   Loading filterscript 'skinchanger.amx'...
+[13:01:46] 
+--Admin Player Skin Changer Loaded
+
+[13:01:46]   Loading filterscript 'vspawner.amx'...
+[13:01:46] 
+--Admin Vehicle Spawner Loaded
+
+[13:01:46]   Loading filterscript 'ls_mall.amx'...
+[13:01:46]   Loading filterscript 'ls_beachside.amx'...
+[13:01:46] 
+
+[13:01:46]   |---------------------------------------------------
+[13:01:46]   |--- LS BeachSide Filterscript
+[13:01:46]   |--  Script v1.03
+[13:01:46]   |--  19th April 2015
+[13:01:46]   |---------------------------------------------------
+[13:01:46]   |--  LS BeachSide Building Elevator created
+[13:01:46]   |---------------------------------------------------
+[13:01:46]   Loaded 10 filterscripts.
+
+[13:01:46]  
+[13:01:46]  ======================================= 
+[13:01:46]  |                                     | 
+[13:01:46]  |    Optimising code, this may take   | 
+[13:01:46]  |        a little bit of time.        | 
+[13:01:46]  |                                     | 
+[13:01:46]  |            Please wait...           | 
+[13:01:46]  |                                     | 
+[13:01:46]  |=====================================| 
+[13:01:46]  |                                     | 
+[13:01:46]  | Note that these optimisations are   | 
+[13:01:46]  | designed to improve performance     | 
+[13:01:46]  | with the JIT plugin, which you are  | 
+[13:01:46]  | not currently using.  Get it here:  | 
+[13:01:46]  |                                     | 
+[13:01:46]  |      https://git.io/jit-plugin      | 
+[13:01:46]  |                                     | 
+[13:01:46]  ======================================= 
+[13:01:46]  
+[13:01:46]  
+[13:01:46]  
+[13:01:46]  
+[13:01:46]  ======================================= 
+[13:01:46]  |                                     | 
+[13:01:46]  |        YSI version 5.03.0689        | 
+[13:01:46]  |        By Alex "Y_Less" Cole        | 
+[13:01:46]  |                                     | 
+[13:01:46]  ======================================= 
+[13:01:46]  
+[13:01:46] Loaded 15 vehicles from: vehicles/lv_law.txt
+[13:01:46] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[13:01:46] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[13:01:46] Loaded 38 vehicles from: vehicles/sf_law.txt
+[13:01:46] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[13:01:46] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[13:01:46] Loaded 24 vehicles from: vehicles/ls_law.txt
+[13:01:46] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[13:01:46] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[13:01:46] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[13:01:46] Loaded 71 vehicles from: vehicles/whetstone.txt
+[13:01:46] Loaded 168 vehicles from: vehicles/bone.txt
+[13:01:46] Loaded 61 vehicles from: vehicles/flint.txt
+[13:01:46] Loaded 96 vehicles from: vehicles/tierra.txt
+[13:01:46] Loaded 96 vehicles from: vehicles/red_county.txt
+[13:01:46] Total vehicles from files: 1775
+[13:01:46] Reading File: blank
+[13:01:46] Reading File: properties/houses.txt
+[13:01:46] Reading File: properties/businesses.txt
+[13:01:46] Reading File: properties/banks.txt
+[13:01:46] Reading File: properties/police.txt
+[13:01:46] 
+----------------------------------
+[13:01:46] SAMP Online
+[13:01:46] ----------------------------------
+
+[13:01:46] Number of vehicle models: 170
